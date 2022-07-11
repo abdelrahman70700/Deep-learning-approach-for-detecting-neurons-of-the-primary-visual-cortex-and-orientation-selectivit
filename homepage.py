@@ -1,13 +1,5 @@
-import matplotlib.pyplot as plt
-import statistics
-import math
-import scipy.io
-from streamlit_option_menu import option_menu
-import shutil
-import numpy as np
-import cv2
-import pandas as pd
 import streamlit as st
+from streamlit_option_menu import option_menu
 from PIL import Image
 #---------------------------------------------------------------------------------------------
 st.set_page_config(page_title="Computational Brain Anatomy", page_icon=":house:", layout="wide")
