@@ -26,5 +26,5 @@ streamlit run homepage.py
 ## Feedback
 
 If you have any feedback, please reach out to me at abdohassan7001@gmail.com
-![Logo](https://www.pythonandvba.com/banner-img)
+
 
