@@ -30,7 +30,7 @@ streamlit run app.py
 
 ## Author
 - graduation projects for FCAI -Abdelrahman Hassan-
-- Website: https://pythonandvba.com
+
 
 
 ## Feedback
