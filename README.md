@@ -18,6 +18,12 @@ Pillow==8.4.0
 streamlit run app.py
 ```
 
+##uploading videos in ML page
+```
+-if you want to upload video in ml page,you should upload it in zip format only
+-Dont go to Data Analysis page without running ML page
+```
+
 ## Author
 - graduation projects for FCAI -Abdelrahman Hassan-
 - Website: https://pythonandvba.com
