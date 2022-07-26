@@ -20,8 +20,8 @@ streamlit run app.py
 
 ## Uploading Videos in ML page
 ```
--if you want to upload video in ml page,you should upload it in zip format only
--Dont go to Data Analysis page without running ML page
+- if you want to upload video in ml page,you should upload it in zip format only
+- Dont go to Data Analysis page without running ML page
 ```
 
 ## Author
