@@ -15,7 +15,7 @@ Pillow==8.4.0
 
 ## Run the app
 ```
-streamlit run homepage.py
+streamlit run app.py
 ```
 
 ## Author
