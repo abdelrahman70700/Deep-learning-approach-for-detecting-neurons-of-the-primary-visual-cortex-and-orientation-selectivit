@@ -1,6 +1,15 @@
-# Use Streamlit to create a personal website
+Deep Learning Approach for Detecting Neurons of the Primary Visual Cortex and Orientation Selectivity
 
-Create a personal website using Python and the Streamlit library. This website will be able to serve as a place for you to share your thoughts, projects, and anything else you want.
+This repository contains code and resources for a novel deep-learning approach for detecting neurons of the primary visual cortex (V1) and determining their orientation selectivity. The approach combines deep learning models and signal processing techniques to automatically detect V1 neurons and analyze their preferred orientation.
+Abstract
+
+The primary goal of this research is to leverage calcium imaging microscopic technique to detect and study the activity of neurons in the primary visual cortex. Calcium imaging involves the use of fluorescent calcium indicators to measure the levels of calcium ions (Ca2+) in cells or tissues. By monitoring changes in Ca2+ levels, it is possible to track the activity of thousands of neurons in the mammalian brain, particularly in the primary visual cortex.
+
+Neurons in the primary visual cortex exhibit orientation selectivity, which refers to their responsiveness to specific visual stimuli with specific orientations. This research focuses on studying the activity of V1 neurons and determining their preferred orientation. Traditional methods for studying orientation selectivity require manual extraction of data for each neuron, which is time-consuming. Additionally, processing calcium imaging data computationally is expensive.
+
+To address these challenges, this research presents a pipeline that combines deep learning models and signal processing techniques. The pipeline begins with the automatic detection of V1 neurons using deep learning models. The resulting average F-1 score achieved on the testing data is 0.89, which outperforms state-of-the-art methods that typically achieve a testing F-1 score below 0.85.
+
+Once the V1 neurons are detected, data is extracted for each neuron, and signal processing techniques are applied to determine their preferred orientation. The orientation selectivity of V1 neurons has played a crucial role in advancing our understanding of vision and has also inspired the development of modern computer vision models such as Convolutional Neural Networks (CNN).
 
 ## Video Tutorial
 
